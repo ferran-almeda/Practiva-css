@@ -52,3 +52,15 @@
     text-shadow:0px 3px 3px red;
     font-family: Arial, Helvetica, sans-serif;
 }
+#titulo{
+    padding:20px ;
+    font-size: 30px;
+    color:black;
+    background-color: crimson;
+}
+#boton1{
+    padding: 10px;
+}
+#boton2{
+    padding: 10px;
+}
